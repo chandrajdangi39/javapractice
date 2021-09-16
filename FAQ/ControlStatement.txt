@@ -1,0 +1,11 @@
+1. WAP to return age criteria as a string where if age is less than 18 then return child , if age is greater than
+18 and less than 60 then return Young and if age is greater than 60 then return SeniorCitizen
+: Signature --> findAgeCriteria that will accept int as argument and return type is String
+
+2. WAP to find if number is divisible by 2 or not.
+Signature : isNumberDivisibleByTwo that will accept int as argument (number) and return true if number is divisible by 2 else false
+className is NumberDivisibility
+
+3. WAP to find if number is even or odd
+Signature : isEven that will accept int as argument (n) and return true if number is even and if number is odd then return false
+className is EvenOdd
