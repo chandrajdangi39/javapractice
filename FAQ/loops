@@ -1,0 +1,26 @@
+---- - All methods should be non-static
+1. WAP to print 1 to N natural numbers  
+   Class NaturalNumber and
+   method name is printNaturalNumber() which will accept int as a argument.
+   method name is printNumInReverseOrder() which will accept int as a argument.
+
+2. WAP to print even numbers only of n natural numbers.(start 1)
+ input : n = 21
+ output : 2 4 6 8 10 12 14 16 18 20
+          print odd numbers only of n natural numbers.
+           input : n = 21
+           output : 1 3 5 7 9 11 13 15 17 19 21
+
+3. Print every fifth number of n natural numbers
+ input : n = 21
+ output : 5 10 15 20
+
+4. Sum of N natural numbers.
+5. Average of N natural numbers
+6. WAP to check number is prime or not ( prime number is number which is divisible by itself and 1)
+  class PrimeNumber ,  method is isPrime() which wil accept int as a argument and return true if number is prime
+  else return false
+  input : n = 8
+  output false
+  input 17
+  output true
