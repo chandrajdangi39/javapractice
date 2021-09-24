@@ -4,7 +4,8 @@ public class SumNaturalNumber {
     public int sumOfNaturalNums(int n){
         int sum=0;
         for(int i=1;i<=n;i++){
-            sum= sum+i;
+           // sum= sum+i;
+            sum= n/2*(n+1);
         }
         return sum;
     }

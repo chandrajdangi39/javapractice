@@ -3,13 +3,14 @@
 //className isEvenOdd
 package raj.ifelse;
 public class EvenOddNumber{
-     static String isEven(int n){
-        if(n%2==0){
+     public static boolean isEven(int n){
+        /*if(n%2==0){
             return "evenNumber";
         }
         else{          // else if(n%2==1)  odd
             return "oddNumber";
-        }
+        }*/
+         return (n%2 == 0);
     }
     public static void main(String [] args){
         System.out.println(isEven(15));

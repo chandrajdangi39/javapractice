@@ -1,0 +1,32 @@
+1. Traverse int array from left to right ( printArrayFromLeft(int [] arr)
+2. traverse int array from right to left  (printArrayFromRight(int [] arr)
+3. Sum of array  element
+4. Print even index positioned array element for given Array.(Assume array index start from 0)
+   int [] arr = {1,3,6,8,22,5,6}
+    output   = 1 6 22 6
+
+5. Print odd index positioned  array element for a given Array. (Assume array index start from 0)
+   int [] arr = {1,3,6,8,22,5,6}
+    output   = 3 8 5
+
+6. Sum of odd indexed position's elements of array .
+ int [] arr = {1,3,6,8,22,5,6}
+    output   = 16    (3+8+5)
+
+7. Sum of even indexed position's elements of array
+   int [] arr = {1,3,6,8,22,5,6}
+       output   = 35 (1+6+22+6)
+
+8. Sum of even elements of the array
+ int [] arr = {1,3,6,8,22,5,6}
+       output   = 42 (6+8+22+6)
+
+9. doubling the each element of array and return new array not the existing one
+
+input : int [] arr = {1,2,4,5,6}
+output : {2,4,8,10,12}
+signature : public int [] doublingClonedArr( int [] arr)
+
+7. Avg of even indexed position's elements of array
+   int [] arr = {1,3,6,8,22,5,6}
+       output   = 8.75   (  35/4  (1+6+22+6))
